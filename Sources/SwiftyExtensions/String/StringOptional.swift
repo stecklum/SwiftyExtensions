@@ -9,7 +9,7 @@ import Foundation
 
 extension String? {
     
-    /// Safely unwraps optional strings
+    /// Safely unwraps optional strings test
     /// - Returns: the unwrapped string or an empty string, if the string was nil
     public func unwrapped() -> String {
         guard let self else { return "" }
