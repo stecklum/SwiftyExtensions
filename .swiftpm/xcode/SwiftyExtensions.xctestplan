@@ -1,0 +1,34 @@
+{
+  "configurations" : [
+    {
+      "id" : "3FDE715E-3D18-4A28-BAC0-D9861FFF3691",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "codeCoverage" : {
+      "targets" : [
+        {
+          "containerPath" : "container:",
+          "identifier" : "SwiftyExtensions",
+          "name" : "SwiftyExtensions"
+        }
+      ]
+    },
+    "testExecutionOrdering" : "random"
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:",
+        "identifier" : "SwiftyExtensionsTests",
+        "name" : "SwiftyExtensionsTests"
+      }
+    }
+  ],
+  "version" : 1
+}
