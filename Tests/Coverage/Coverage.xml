@@ -1,5 +1,5 @@
 <coverage version="1">
-  <file path="/Users/tomstecklum/Projects/SwiftyExtensions/Sources/SwiftyExtensions/String/String.swift">
+  <file path="/Sources/SwiftyExtensions/String/String.swift">
     <lineToCover lineNumber="12" covered="true"/>
     <lineToCover lineNumber="13" covered="true"/>
     <lineToCover lineNumber="14" covered="true"/>
@@ -7,7 +7,7 @@
     <lineToCover lineNumber="17" covered="true"/>
     <lineToCover lineNumber="18" covered="true"/>
   </file>
-  <file path="/Users/tomstecklum/Projects/SwiftyExtensions/Sources/SwiftyExtensions/String/StringOptional.swift">
+  <file path="/Sources/SwiftyExtensions/String/StringOptional.swift">
     <lineToCover lineNumber="14" covered="true"/>
     <lineToCover lineNumber="15" covered="true"/>
     <lineToCover lineNumber="16" covered="true"/>
@@ -21,7 +21,7 @@
     <lineToCover lineNumber="30" covered="true"/>
     <lineToCover lineNumber="31" covered="true"/>
   </file>
-  <file path="/Users/tomstecklum/Projects/SwiftyExtensions/Sources/SwiftyExtensions/SwiftyExtensions.swift">
+  <file path="/Sources/SwiftyExtensions/SwiftyExtensions.swift">
     <lineToCover lineNumber="3" covered="false"/>
   </file>
 </coverage>
